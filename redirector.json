@@ -3,5 +3,8 @@
  "zvuk":"http://www.fffilm.name/2012/02/hudebnim-skladatelem-snadno-rychle.html",
  "mon85":"https://raw.githubusercontent.com/osmibity/alpha/master/docs/mon85.txt",
  "65src":"http://www.6502.org/source/",
- "65c02":"http://6502.org/tutorials/65c02opcodes.html"
+ "65c02":"http://6502.org/tutorials/65c02opcodes.html",
+ "mag85":"http://saundby.com/electronics/8085/",
+ "eeprog":"http://danceswithferrets.org/geekblog/?page_id=903",
+ "8080js":"https://github.com/maly/8080js"
 }
