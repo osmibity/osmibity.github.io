@@ -6,5 +6,6 @@
  "65c02":"http://6502.org/tutorials/65c02opcodes.html",
  "mag85":"http://saundby.com/electronics/8085/",
  "eeprog":"http://danceswithferrets.org/geekblog/?page_id=903",
- "8080js":"https://github.com/maly/8080js"
+ "8080js":"https://github.com/maly/8080js",
+ "pinout":"https://8bt.github.io/pinout.html"
 }
