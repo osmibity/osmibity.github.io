@@ -7,5 +7,6 @@
  "mag85":"http://saundby.com/electronics/8085/",
  "eeprog":"http://danceswithferrets.org/geekblog/?page_id=903",
  "8080js":"https://github.com/maly/8080js",
- "pinout":"https://8bt.github.io/pinout.html"
+ "pinout":"https://8bt.github.io/pinout.html",
+ "z80":"https://hackaday.io/project/19000-a-4-4ics-z80-homemade-computer-on-breadboard"
 }
